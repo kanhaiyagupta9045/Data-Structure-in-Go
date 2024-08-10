@@ -6,12 +6,13 @@
  *     Right *TreeNode
  * }
  */
+type BT struct {
+	Node  *TreeNode
+	Index int64
+}
 
 func widthOfBinaryTree(root *TreeNode) int {
-	type BT struct {
-		Node  *TreeNode
-		Index int64
-	}
+
 	ans := int64(0)
 	q := []BT{{root, 0}}
 
