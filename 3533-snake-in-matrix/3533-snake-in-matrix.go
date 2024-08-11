@@ -1,17 +1,17 @@
 func finalPositionOfSnake(n int, commands []string) int {
 	i := 0
 	j := 0
-	matrix := make([][]int, n)
-	for i := range matrix {
-		matrix[i] = make([]int, n)
-	}
-    cnt :=0
-    for a :=0;a<len(matrix);a++{
-        for b:=0;b<n;b++{
-            matrix[a][b] = cnt
-            cnt+=1
-        }
-    }
+	// matrix := make([][]int, n)
+	// for i := range matrix {
+	// 	matrix[i] = make([]int, n)
+	// }
+	// cnt := 0
+	// for a := 0; a < len(matrix); a++ {
+	// 	for b := 0; b < n; b++ {
+	// 		matrix[a][b] = cnt
+	// 		cnt += 1
+	// 	}
+	// }
 
 	for k := 0; k < len(commands); k++ {
 		if commands[k] == "RIGHT" {
@@ -24,6 +24,6 @@ func finalPositionOfSnake(n int, commands []string) int {
 			j = j - 1
 		}
 	}
-    return matrix[i][j]
+	return i*n+j
 
 }
