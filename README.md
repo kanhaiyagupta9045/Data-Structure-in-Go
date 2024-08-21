@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0283-move-zeroes) |
 | [0890-lemonade-change](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0890-lemonade-change) |
 | [0999-regions-cut-by-slashes](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
