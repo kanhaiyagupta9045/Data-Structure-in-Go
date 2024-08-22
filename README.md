@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0283-move-zeroes) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0001-two-sum) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0999-regions-cut-by-slashes) |
 ## Union Find
