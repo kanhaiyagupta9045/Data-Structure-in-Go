@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0169-majority-element) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0048-rotate-image) |
 | [0999-regions-cut-by-slashes](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Strongly Connected Component
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
