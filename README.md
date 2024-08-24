@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0560-subarray-sum-equals-k) |
 | [0890-lemonade-change](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0890-lemonade-change) |
 | [0999-regions-cut-by-slashes](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0999-regions-cut-by-slashes) |
 ## Union Find
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2271-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
