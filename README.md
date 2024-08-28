@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0169-majority-element) |
+| [0424-longest-repeating-character-replacement](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0999-regions-cut-by-slashes) |
@@ -136,8 +137,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
