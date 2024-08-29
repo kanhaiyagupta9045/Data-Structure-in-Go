@@ -14,7 +14,7 @@ public:
             }
 
             else {
-                while (sum >= k) {
+                while (sum > k) {
                     ans = min(ans, windowSize);
                     sum -= nums[i];
                     i++;
