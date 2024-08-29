@@ -20,7 +20,7 @@ public:
                     i++;
                     windowSize = j - i + 1;
                 }
-                if (sum >= k) {
+                if (sum == k) {
                     ans = min(ans, windowSize);
                 }
             }
