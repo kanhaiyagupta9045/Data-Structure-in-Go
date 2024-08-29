@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0560-subarray-sum-equals-k) |
 | [0890-lemonade-change](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0890-lemonade-change) |
+| [0966-binary-subarrays-with-sum](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0999-regions-cut-by-slashes) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1046-max-consecutive-ones-iii) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0966-binary-subarrays-with-sum](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0966-binary-subarrays-with-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0999-regions-cut-by-slashes) |
 ## Union Find
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1046-max-consecutive-ones-iii) |
 ## String
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
