@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0145-binary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0145-binary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Array
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Graph
 |  |
 | ------- |
