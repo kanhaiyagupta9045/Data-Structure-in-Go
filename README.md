@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0189-rotate-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1370-count-number-of-nice-subarrays) |
 ## Divide and Conquer
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0547-number-of-provinces) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
