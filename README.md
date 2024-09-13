@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0999-regions-cut-by-slashes) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1370-count-number-of-nice-subarrays) |
+| [1435-xor-queries-of-a-subarray](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1435-xor-queries-of-a-subarray) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1046-max-consecutive-ones-iii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1435-xor-queries-of-a-subarray) |
 ## String
 |  |
 | ------- |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1435-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
