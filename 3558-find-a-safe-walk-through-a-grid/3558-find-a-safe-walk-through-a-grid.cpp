@@ -18,7 +18,9 @@ public:
             int col = it.second.second;
             int current_health = it.first;
             if (row == m - 1 && col == n - 1) {
-                s.insert(current_health);
+                if(current_health>=1){
+                    return true;
+                }
             }
 
             for (int i = 0; i < 4; i++) {
@@ -33,11 +35,6 @@ public:
                     }
                     vis[newRow][newCol] = 1;
                 }
-            }
-        }
-        for(auto it : s){
-            if(it>=1){
-                return true;
             }
         }
         return false;
