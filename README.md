@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0283-move-zeroes) |
+| [0539-minimum-time-difference](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0890-lemonade-change) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0189-rotate-array) |
+| [0539-minimum-time-difference](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0539-minimum-time-difference) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1370-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0169-majority-element) |
+| [0539-minimum-time-difference](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0539-minimum-time-difference) |
 ## Counting
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0424-longest-repeating-character-replacement) |
+| [0539-minimum-time-difference](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0539-minimum-time-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Sliding Window
 |  |
