@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0102-binary-tree-level-order-traversal) |
+| [0542-01-matrix](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0733-flood-fill) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0283-move-zeroes) |
 | [0539-minimum-time-difference](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0539-minimum-time-difference) |
+| [0542-01-matrix](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0890-lemonade-change) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0048-rotate-image) |
+| [0542-01-matrix](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0733-flood-fill) |
 | [0999-regions-cut-by-slashes](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1036-rotting-oranges) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0542-01-matrix](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0542-01-matrix) |
 ## Sorting
 |  |
 | ------- |
