@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0283-move-zeroes) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0179-largest-number) |
 | [0890-lemonade-change](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0890-lemonade-change) |
 | [1026-string-without-aaa-or-bbb](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1026-string-without-aaa-or-bbb) |
 ## Two Pointers
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0539-minimum-time-difference) |
 ## Counting
 |  |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0179-largest-number](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0179-largest-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0424-longest-repeating-character-replacement) |
 | [0539-minimum-time-difference](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0920-uncommon-words-from-two-sentences) |
