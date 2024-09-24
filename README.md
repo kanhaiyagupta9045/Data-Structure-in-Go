@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0999-regions-cut-by-slashes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1370-count-number-of-nice-subarrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Union Find
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1026-string-without-aaa-or-bbb](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1026-string-without-aaa-or-bbb) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -259,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
