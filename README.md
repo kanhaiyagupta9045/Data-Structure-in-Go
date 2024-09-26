@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0560-subarray-sum-equals-k) |
+| [0729-my-calendar-i](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0966-binary-subarrays-with-sum) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0209-minimum-size-subarray-sum) |
+| [0729-my-calendar-i](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0729-my-calendar-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1046-max-consecutive-ones-iii) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Binary Search Tree
@@ -268,4 +270,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
