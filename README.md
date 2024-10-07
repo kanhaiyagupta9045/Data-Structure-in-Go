@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0145-binary-tree-postorder-traversal) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1026-string-without-aaa-or-bbb](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1026-string-without-aaa-or-bbb) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sliding Window
 |  |
