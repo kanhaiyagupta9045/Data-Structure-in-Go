@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1026-string-without-aaa-or-bbb](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1026-string-without-aaa-or-bbb) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -288,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0729-my-calendar-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
