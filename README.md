@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0128-longest-consecutive-sequence) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0078-subsets) |
 | [1435-xor-queries-of-a-subarray](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -297,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
