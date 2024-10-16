@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1026-string-without-aaa-or-bbb](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1026-string-without-aaa-or-bbb) |
+| [1304-longest-happy-string](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/3195-separate-black-and-white-balls) |
 ## Two Pointers
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1026-string-without-aaa-or-bbb](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1026-string-without-aaa-or-bbb) |
+| [1304-longest-happy-string](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/3195-separate-black-and-white-balls) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1304-longest-happy-string](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Backtracking
 |  |
