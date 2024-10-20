@@ -5,11 +5,9 @@ public:
 
         vector<vector<int>> ans;
         sort(nums.begin(), nums.end());
-        int i = 0;
-        int j = n - 1;
         set<vector<int>> s;
         for (int i = 0; i < n - 2; i++) {
-            int k = i + i;
+            int k = i + 1;
             int j = n - 1;
             while (k < j) {
 
