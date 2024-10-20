@@ -19,7 +19,7 @@ public:
                     temp.push_back(nums[k]);
                     temp.push_back(nums[j]);
                     s.insert(temp);
-                    i++;
+                    k++;
                     j--;
                 }
 
