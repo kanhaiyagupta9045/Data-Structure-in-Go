@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1304-longest-happy-string](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1894-merge-strings-alternately) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/3195-separate-black-and-white-balls) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1370-count-number-of-nice-subarrays) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Binary Search
 |  |
