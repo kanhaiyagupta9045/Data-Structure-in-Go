@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0130-surrounded-regions) |
+| [0152-maximum-product-subarray](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0189-rotate-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0416-partition-equal-subset-sum) |
