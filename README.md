@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0643-maximum-average-subarray-i) |
 | [0729-my-calendar-i](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0890-lemonade-change) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1370-count-number-of-nice-subarrays) |
