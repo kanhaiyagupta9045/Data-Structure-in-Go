@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0416-partition-equal-subset-sum) |
 | [0539-minimum-time-difference](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0542-01-matrix) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0542-01-matrix) |
 ## Sorting
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0729-my-calendar-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1046-max-consecutive-ones-iii) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
