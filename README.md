@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3291-find-if-array-can-be-sorted](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0539-minimum-time-difference) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3291-find-if-array-can-be-sorted](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3291-find-if-array-can-be-sorted](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/3291-find-if-array-can-be-sorted) |
 ## Brainteaser
 |  |
 | ------- |
