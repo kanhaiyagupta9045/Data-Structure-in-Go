@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/kanhaiyagupta9045/Data-Structure-in-Go/tree/master/0627-swap-salary) |
